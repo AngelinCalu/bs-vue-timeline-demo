@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "bootstrap-vue": "2.0.0-rc.27",
-    "bs-vue-timeline": "0.1.0",
-    "vue": "^2.5.22"
+    "bs-vue-timeline": "0.1.1",
+    "vue": "2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.6.0",
