@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap-vue": "2.0.0-rc.27",
-    "bs-vue-timeline": "0.1.3",
+    "bs-vue-timeline": "0.1.4",
     "vue": "2.6.10"
   },
   "devDependencies": {
